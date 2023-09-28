@@ -1,1 +1,1 @@
-# Bharatintern
+My name is Deeksha K S, and I am currently studying in Nitte Meenakshi Institute of Technology.The opportunity to learn Web Development genuinely fills me with excitement.In the course period of this internship i have accomplished three projects, that is Temperature Convertor, Netflix Homepage and Student Portfolio# Bharatintern
