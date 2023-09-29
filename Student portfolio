@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      width: 70%;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff00;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.945);
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    header, footer {
+      background-color: #db3493;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+    }
+
+    section {
+      padding: 20px 0;
+    }
+
+    section img {
+      max-width: 30%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      border-radius:10px;
+      margin-bottom: 10px;
+    }
+  </style>
+  <title>Your Name - Portfolio</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Deeksha K S</h1>
+      <p>Web Developer</p>
+    </div>
+  </header>
+
+  <section class="container">
+    <h2>About Me</h2>
+    <p>
+        I am Deeksha K S, a dedicated and results-driven individual with a strong passion for technology and innovation. As a recent graduate in Computer Science from Nitte Meenakshi Institute of Technology, I have gained a solid foundation in various programming languages such as Java, C, C++ and C#, along with experience in web development and database management.
+        Throughout my academic journey, I actively participated in coding competitions and hackathons, where I honed my skills in algorithmic thinking and collaborated with diverse teams to create innovative solutions. My experience as a software engineering intern at Bharat Intern allowed me to apply my theoretical knowledge to real-world projects, further enhancing my skills in software development and teamwork. I thrive on the opportunity to continuously learn and stay at the forefront of the ever-evolving tech landscape.
+    </p>
+    <img src="C:\\Users\\Lenovo\\OneDrive\\Documents\\me image.jpg" alt="About Me Image">
+  </section>
+
+  <section class="container">
+    <h2>Accomplishments</h2>
+    <ul>
+      <li>Railway ticket booking system using web application.</li>
+      <li>Memory matching game using C#.</li>
+    </ul>
+    
+  </section>
+
+  <section class="container">
+    <h2>Contact Me</h2>
+    <p>Email: deekshaks625@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/deeksha-k-s-02b0a1290">LinkedIn Profile</a></p>
+    
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 deekshaks</p>
+    </div>
+  </footer>
+</body>
+</html>
